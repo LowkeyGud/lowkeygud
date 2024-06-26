@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **N-GVLH** - 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on **Nothing** - 🌱 I’m currently learning **3JS**
 - 💬 Ask me about **react, nextjs, flutter**
 
 <h3 align="left">Languages and Tools:</h3>
